@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bashir Mohammed
 
 **`AI enthusiast | Web3 Developer | TypeScript | Python | System Design`**  
-I'm passionate about building intelligent systems that bridge the gap between blockchain and machine learning. I explore how LLMs and on-chain data can work together meaningfully — currently diving deep into Solana, MCP protocols, and AI-based data pipelines.
+I'm passionate about building intelligent systems that bridge the gap between blockchain and machine learning. I explore how LLMs and on-chain data can work together meaningfully, currently diving deep into Solana, MCP protocols, and AI-projects.
 
 ---
 
