@@ -45,7 +45,7 @@ I'm passionate about building intelligent systems that bridge the gap between bl
 
 ## 🌐 Connect With Me
 
-- Twitter: [@DeadlyRM](https://x.com/DeadlyRM?t=NpgaSU_G3UOfmwwgqNlufQ&s=09) *(optional)*
+- Twitter: [@DeadlyRM](https://x.com/DeadlyRM?t=NpgaSU_G3UOfmwwgqNlufQ&s=09) 
 - Email: Rihsabmohd@gmail.com
 
 ---
